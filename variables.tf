@@ -6,6 +6,6 @@ variable "location" {
 
 variable "rg" {
     type = string
-    default = "kml_rg_main-efa2068a068f4eea"
+    default = "kml_rg_main-12e2f44b646b4f06"
     description = "my resource group"
 }
